@@ -6,7 +6,7 @@
 
 ### **Contacts**
 
-**discord:** <https://discord.com/users/konstantinuza>
+**discord:** <https://discord.com/users/konstantinuza>  
 **github:** <https://github.com/konstantinuza>
 
 ---
